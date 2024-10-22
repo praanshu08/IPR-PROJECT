@@ -16,6 +16,6 @@ You can access google drive links
 ### Running the script
 Use the google colab file to run everything addition of weights and datasets should be done according to your own style using the links given above.
 
-Keep in mind the env.yml or requirements.txt file is not changed as version control is not allowed.
+Keep in mind the env.yml or requirements.txt file is not changed as in many cases the version change will result in the code not running.
 
 
